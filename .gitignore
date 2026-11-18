@@ -1,0 +1,48 @@
+# Секреты — никогда в репозиторий
+.env
+.env.*
+*.env
+secrets/
+
+# Служебный файл контура Sync-Hub (движок удаляет сам)
+.sync-note.md
+
+# Контур синхронизации (добавил агент Sync-Hub при подключении, 18.11.2026)
+# выдачи приложения Claude в подключённой папке
+Claude outputs/
+# локальные настройки агентов
+.claude/settings.local.json
+# имена, которые движок всё равно не пустит (push.ps1, проверка «Zapreshchennye imena faylov»):
+# держим вне индекса, чтобы такой файл не останавливал всю отправку (ловушка № 24 памятки хаба)
+*.key
+*.pem
+*.bak
+*.dump
+*.sql.gz
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+id_rsa*
+
+# Сборка и зависимости
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+
+# Журналы и временное
+*.log
+*.tmp
+# временные файлы Office, пока документ открыт (~$отчёт.docx)
+~$*
+# служебное Windows и macOS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# образцы настроек не прячем: движок их пропускает (находка otel 03.10.2026)
+!*.example
+!*.template
+!*.sample

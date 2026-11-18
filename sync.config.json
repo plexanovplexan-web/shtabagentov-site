@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "name": "shtabagentov-site",
+  "remote": "https://github.com/plexanovplexan-web/shtabagentov-site.git",
+  "target": "main",
+  "branch": "main",
+  "branch_prefix": "sync/",
+  "allowlist": null,
+  "quiet_seconds": 45,
+  "required_files": ["AGENTS.md"],
+  "markers": ["AGENTS.md"],
+  "max_file_mb": 5,
+  "commit_prefix": "site",
+  "warn_paths": [],
+  "legacy_paths": []
+}
