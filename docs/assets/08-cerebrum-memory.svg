@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+<title id="title">Cerebrum: знания, поиск и проверяемый ответ</title><desc id="desc">Обезличенная схема. Заметки, решения и документы поступают в память PostgreSQL. Поиск объединяет точность, смысл, граф, время и структуру. Ответ возвращается с источниками и возможностью уточнения.</desc>
+<rect width="1280" height="720" rx="28" fill="#15234c"/>
+<g fill="none" stroke="#5874b4" stroke-width="3"><path d="M270 245C395 245 360 355 480 355M270 355H480M270 465C395 465 360 355 480 355M760 355H850M1080 355H1160"/><path d="M640 425V538H1000V408" stroke-dasharray="9 9"/></g>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="72" y="87" fill="#ffffff" font-size="42" font-weight="700">Cerebrum</text><text x="72" y="128" fill="#c4d3f4" font-size="24">Память с контекстом. Ответ с источником.</text>
+<g fill="#26385e" stroke="#7187b3" stroke-width="1.5"><rect x="72" y="207" width="198" height="76" rx="16"/><rect x="72" y="317" width="198" height="76" rx="16"/><rect x="72" y="427" width="198" height="76" rx="16"/></g>
+<g fill="#ffffff" font-size="25" text-anchor="middle"><text x="171" y="255">Заметки</text><text x="171" y="365">Решения</text><text x="171" y="475">Документы</text></g>
+<rect x="480" y="273" width="280" height="157" rx="24" fill="#b4f2ed"/><text x="620" y="330" fill="#15234c" font-size="30" font-weight="700" text-anchor="middle">Своя память</text><text x="620" y="371" fill="#274d61" font-size="22" text-anchor="middle">PostgreSQL + pgvector</text><text x="620" y="405" fill="#274d61" font-size="20" text-anchor="middle">Источники · версии · связи</text>
+<rect x="850" y="222" width="230" height="250" rx="23" fill="#4261ef"/><text x="965" y="270" fill="#ffffff" font-size="28" font-weight="700" text-anchor="middle">Поиск</text><g fill="#ffffff" font-size="22"><text x="878" y="312">Точное совпадение</text><text x="878" y="347">Смысл и связи</text><text x="878" y="382">Время</text><text x="878" y="417">Структура</text></g>
+<circle cx="1160" cy="355" r="39" fill="#ffcd72"/><path d="m1143 355 11 12 22-25" fill="none" stroke="#15234c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1160" y="432" fill="#ffffff" font-size="20" text-anchor="middle">Ответ</text>
+<rect x="728" y="510" width="380" height="58" rx="14" fill="#ffdcce"/><text x="918" y="547" fill="#5a3028" font-size="22" text-anchor="middle">Уточнить · исправить · подтвердить</text>
+<text x="72" y="640" fill="#ffffff" font-size="23">n8n связывает этапы. Telegram — интерфейс человека.</text><text x="72" y="681" fill="#b5c7eb" font-size="18">Схема по документации. Личных данных и живого подключения нет.</text>
+</g></svg>

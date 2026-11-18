@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000"><rect width="1600" height="1000" fill="#f3f2ec"/>
+<rect x="80" y="365" width="321" height="225" rx="14" fill="white" stroke="#c5d2d0"/><rect x="95" y="365" width="291" height="6" fill="#286d70"/>
+<rect x="447" y="365" width="321" height="225" rx="14" fill="white" stroke="#c5d2d0"/><rect x="462" y="365" width="291" height="6" fill="#286d70"/>
+<rect x="814" y="365" width="321" height="225" rx="14" fill="white" stroke="#c5d2d0"/><rect x="829" y="365" width="291" height="6" fill="#286d70"/>
+<rect x="1181" y="365" width="321" height="225" rx="14" fill="white" stroke="#c5d2d0"/><rect x="1196" y="365" width="291" height="6" fill="#286d70"/>
+<rect x="80" y="660" width="1435" height="180" rx="14" fill="#e0e9e3"/>
+<text x="80" y="84" font-family="Arial,sans-serif" font-size="19" fill="#397579" font-weight="700">ЛИЧНЫЙ ПРОЕКТ  /  СХЕМА ПО ДОКУМЕНТАЦИИ</text>
+<text x="80" y="186" font-family="Arial,sans-serif" font-size="61" fill="#243c45" font-weight="700">Личный VPN на VPS</text>
+<text x="80" y="251" font-family="Arial,sans-serif" font-size="27" fill="#506873" font-weight="400">Компоненты личного проекта по документации. Иллюстрация,</text>
+<text x="80" y="290" font-family="Arial,sans-serif" font-size="27" fill="#506873" font-weight="400">не скриншот панели и не проверка текущей доступности.</text>
+<text x="104" y="435" font-family="Arial,sans-serif" font-size="30" fill="#243c45" font-weight="700">Сервер</text>
+<text x="104" y="494" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">Docker · Xray</text>
+<text x="104" y="530" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">Панель 3x-ui</text>
+<text x="471" y="435" font-family="Arial,sans-serif" font-size="30" fill="#243c45" font-weight="700">VPN-канал</text>
+<text x="471" y="494" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">VLESS + Reality</text>
+<text x="471" y="530" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">Исторические проверки</text>
+<text x="838" y="435" font-family="Arial,sans-serif" font-size="30" fill="#243c45" font-weight="700">Устройства</text>
+<text x="838" y="494" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">Windows · macOS</text>
+<text x="838" y="530" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">iPhone</text>
+<text x="1205" y="435" font-family="Arial,sans-serif" font-size="30" fill="#243c45" font-weight="700">Администрирование</text>
+<text x="1205" y="494" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">SSH-туннель</text>
+<text x="1205" y="530" font-family="Arial,sans-serif" font-size="24" fill="#506873" font-weight="400">Доступ к панели</text>
+<text x="108" y="717" font-family="Arial,sans-serif" font-size="26" fill="#243c45" font-weight="400">В документах зафиксированы рабочие клиентские подключения.</text>
+<text x="108" y="755" font-family="Arial,sans-serif" font-size="26" fill="#243c45" font-weight="400">Реализация — с ИИ-агентами; авторство каждого скрипта не установлено.</text>
+<text x="108" y="793" font-family="Arial,sans-serif" font-size="26" fill="#243c45" font-weight="400">Текущее соединение, резервирование и восстановление здесь не проверены.</text>
+<text x="80" y="919" font-family="Arial,sans-serif" font-size="19" fill="#657b80" font-weight="400">Портфолио  /  Источник: VPN-проект, INFRA.md. Без адресов, профилей доступа и секретов.</text>
+</svg>
